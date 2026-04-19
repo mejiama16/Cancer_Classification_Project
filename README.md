@@ -1,7 +1,9 @@
 # Cancer Classification Using The Cancer Genome Atlas (TCGA)
 
-**Course:** STA314 | University of Toronto  
+**Course:** STA314: Statistical Methods for ML | University of Toronto  
+
 **Author:** Mariana Garcia Mejia
+
 **Final Score:** 1.00 | **Ranking:** 4/10
 
 ## Overview
